@@ -15,3 +15,16 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+//---------------------------------------------------------
+
+// function sayHello(){
+//   for (let i = 0; i < 5; i++){
+//     console.log(i);
+//   }
+//   console.log(i);
+// }
+
+// sayHello();
+
+//-------------------------------------------------------------
+
